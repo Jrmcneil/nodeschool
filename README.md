@@ -5,4 +5,5 @@ completing the nodeschool javascript and node exercises available [here](http://
 
 ####Modules completed
 
-+ javascripting 
++ javascripting
++ learnyounode
