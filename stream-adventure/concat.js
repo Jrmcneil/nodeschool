@@ -7,13 +7,3 @@ process.stdin.pipe(concat(function(data){
       process.stdout.write(data.toString().split('').reverse().join(''));
       process.stdout.write('\n')
    }))
-
-
-
-
-   //    concat(function(body){
-   //    console.log(body)
-   //    // body.split('').reverse().join('')
-   // }))
-   // .pipe(process.stdout)
-   // process.stdout.write(
